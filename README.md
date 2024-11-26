@@ -1,5 +1,6 @@
 Blog With Flask
 
+HTML and CSS was made with "https://getbootstrap.com/"
 API was made with "https://www.npoint.io/"
 
 Requirements
