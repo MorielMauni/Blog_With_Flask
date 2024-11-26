@@ -1,11 +1,6 @@
 Blog With Flask
 
-Welcome to the Blog With Flask project! This is a dynamic blog application built with the Flask web framework. It allows users to view posts, add new entries, and explore a simple, intuitive blog interface.
-
-Features
-- Display blog posts with titles, subtitles, authors, and dates.
-- Create and manage posts dynamically.
-- Lightweight and easy to use.
+API was made with "https://www.npoint.io/"
 
 Requirements
 - Python 3.8 or higher
@@ -36,4 +31,4 @@ Usage
    ```
 
 Contact
-For any inquiries or feedback, reach out to me via email at **morielmauni@gmail.com**.
+If you have any questions or feedback, please reach out to me via email at **morielmauni@gmail.com**.
